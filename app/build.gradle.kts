@@ -70,4 +70,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
 //    Spotify additions
     implementation("com.spotify.android:auth:2.1.0")
+
+//    Compose Material 3 additions
+    implementation("androidx.compose.material3:material3:1.4.0")
 }
