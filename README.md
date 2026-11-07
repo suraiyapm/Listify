@@ -18,4 +18,4 @@ Now I get to clean things up however I'd like, and if I
 end up having regrets or needing to change things somewhere
 down the line, I have some way of doing so.
 
-## Table of Contents {#table-of-contents}
+## Table of Contents
